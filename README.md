@@ -22,9 +22,9 @@ _INFocus_ is an SocialMedia Application that help to connect with friend and als
 # Live link and demo
 [Deployed Link](https://inficus-social-app.herokuapp.com "APP")
 
+https://user-images.githubusercontent.com/77265987/133918575-7bd58582-fd7e-4a70-be83-f763768456d0.mp4
 
-
-# Test 
+# For Test [INFocus App](https://inficus-social-app.herokuapp.com "APP")
 Email: lucifar852@gmail.com 
 
 Password: Amit741852
