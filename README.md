@@ -29,4 +29,9 @@ Email: lucifar852@gmail.com
 
 Password: Amit741852
 
+# Upcoming Features
+- Search 
+- chat between mutual friends
+- Save posts
+
 
